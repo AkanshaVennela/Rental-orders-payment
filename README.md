@@ -10,7 +10,6 @@ The form is designed to be step-by-step, with the order summary section being di
 
 # Payment Section
 ![image](https://user-images.githubusercontent.com/85068589/221179089-1decf675-f7cc-4d79-bcba-8263efc3026a.png)
-![image](https://user-images.githubusercontent.com/85068589/221179137-de9bba4f-4f32-4186-a940-a744ded60a79.png)
 ![image](https://user-images.githubusercontent.com/85068589/221179191-8b05b0b8-2623-4c67-9d76-013fb517e556.png)
 ![image](https://user-images.githubusercontent.com/85068589/221179301-f6f1baf9-53fc-490f-be51-704495479c14.png)
 ![Rental Payment Form and 1 more page - Personal - Microsoft​ Edge 24-02-2023 18_00_20](https://user-images.githubusercontent.com/85068589/221179527-f205c443-e70e-4e68-a70c-9ddb9b68e47a.png)
