@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+/* Global styles */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    margin-top: 0;
+    margin-bottom: -2px;
+  }
+  #heading{
+    margin-top: 2vh;
+    display: flex;
+   justify-content: space-around;
+   font-family: 'Merriweather', serif;
+  }
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    /* border:2px solid green; */
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  select,
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+  
+  input[type="checkbox"] {
+    display: inline-block;
+    width: auto;
+    margin-right: 10px;
+  }
+  
+  button {
+    display: block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    cursor: pointer;
+  }
+  
+  button[type="submit"] {
+    background-color: #008CBA;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* Specific styles */
+  
+  #order-summary {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #order-summary p {
+    margin: 0;
+  }
+  
+  #order-summary span {
+    font-weight: bold;
+  }
+  
+  #customer-details {
+    margin-bottom: 20px;
+  }
+  
+  #payment {
+    margin-bottom: 20px;
+  }
+  
+  #online-payment,
+  #cod-payment {
+    margin-top: 20px;
+  }
+  
+  #error-msg {
+    color: red;
+    margin-bottom: 20px;
+  }
+  
+  .success {
+    color: green;
+    margin-bottom: 20px;
+  }
+  
+  #terms-and-conditions{
+    display:flex;
+    /* border:2px solid red; */
+  }
+  #terms{
+    margin-top: 6px;
+  }
+
+  #image{
+    /* border: 2px solid blue; */
+    position: absolute;
+    bottom:0px;
+    right: 0px;
+  }
+  img{
+    width: 19vw;
+    height: 34vh;
+
+  }
