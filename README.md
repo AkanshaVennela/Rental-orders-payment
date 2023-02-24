@@ -1,6 +1,8 @@
 # Rental-orders-payment
 The form is designed to be step-by-step, with the order summary section being displayed first, followed by the customer details section, and then the payment section. I have also included an option to accept the terms and conditions for rental in the customer details section.
 
+Live: https://rentalpaymentform.netlify.app/
+
 # Order Summary Section
 ![image](https://user-images.githubusercontent.com/85068589/221178664-782141e6-766f-4ada-832a-629045c65fc6.png)
 
